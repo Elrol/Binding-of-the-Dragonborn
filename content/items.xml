@@ -1,0 +1,21 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive cache="" name="Mehrune's Razor" description="Has a small chance to instantly kill" gfx="Mehrune's_Razor.png" />
+    <passive cache="" name="Masque of Clavicus Vile" description="" gfx="Masque_Of_Clavicus_Vile.png" />
+    <passive cache="" name="Ring of Namira" description="" gfx="" />
+    <passive cache="" name="Savior's Hide" description="" gfx="" />
+    
+    
+    <passive cache="" name="Oghma Infinium" description="Knowledge is Power" gfx="Oghma_Infinium.png" />
+    <passive cache="damage" name="Oghma Infinium - Damage" description="Knowledge of Damage" gfx="Oghma_Infinium_Damage.png" />
+    <passive cache="firedelay" name="Oghma Infinium - Fire Rate" description="Knowledge of Fire Rate" gfx="Oghma_Infinium_FireRate.png" />
+    <passive cache="shotspeed" name="Oghma Infinium - Shot Speed" description="Knowledge of Shot Speed" gfx="Oghma_Infinium_ShotSpeed.png" />
+    <passive cache="range" name="Oghma Infinium - Range" description="Knowledge of Range" gfx="Oghma_Infinium_Range.png" />
+    <passive cache="speed" name="Oghma Infinium - Speed" description="Knowledge of Speed" gfx="Oghma_Infinium_Speed.png" />
+    <passive cache="luck" name="Oghma Infinium - Luck" description="Knowledge of Luck" gfx="Oghma_Infinium_Luck.png" />
+    
+    
+    <!--Active Items-->
+    <active cache="damage" name="Ebony Blade" description="The power of Friends" gfx="Ebony_Blade.png" maxcharges="1" />
+    <active cache="" name="Azura's Star" description="Reusale Soul Trapping" gfx="" maxcharges="6" />
+    
+</items>
